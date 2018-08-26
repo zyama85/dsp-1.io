@@ -1,0 +1,129 @@
+body {
+    font-family: 'Open Sans', sans-serif
+}
+
+.sidenav-trigger i {
+    color: #0c6286
+}
+
+.spec {
+    padding-left: 20px;
+    font-weight: bold
+}
+
+.carousel-item {
+    background: rgba(90, 90, 90, 0.6);
+    border-radius: 10px
+}
+
+.carousel-item h2 {
+    font-weight: bold
+}
+.carousel-item p {
+    font-weight: bold;
+}
+.brand-logo img {
+    width: 200px;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 4px
+}
+
+header {
+    background-image: url('../img/third.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 600px
+}
+
+.dropdown-content {
+    min-width: 300px
+}
+
+.directions {
+    text-align: center;
+    border-top: 1px gray solid
+}
+
+.directions__title {
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 20px
+}
+
+.directions__text {
+    font-stretch: ultra-condensed;
+    font-weight: bold
+}
+
+.about {
+    background-image: url('../img/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding-top: 40px;
+    border-top: 1px gray solid
+}
+
+.doctors {
+    border-top: 1px gray solid
+}
+
+.finde {
+    border-top: 1px gray solid
+}
+
+.about__title {
+    font-weight: bold
+}
+
+.about__text {
+    font-weight: bold
+}
+
+.doctors__title {
+    padding-top: 40px;
+    font-weight: bold;
+    padding-bottom: 60px
+}
+
+.tabs-content.carousel.carousel-slider .carousel-item.active {
+    position: relative
+}
+
+.tab a.active {
+    color: #ffffff !important;
+    background-color: #17bcbd !important
+}
+
+.tabs .tab a:hover {
+    background-color: #17bcbd !important;
+    color: #ffffff !important
+}
+
+.tabs .tab a {
+    color: black
+}
+
+.tabs .indicator {
+    background-color: #17bcbd !important
+}
+
+.footer__text {
+    font-weight: bold
+}
+
+footer ul > li {
+    font-weight: bold
+}
+
+.finde__title {
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+iframe {
+    padding-top: 40px
+}

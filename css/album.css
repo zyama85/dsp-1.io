@@ -1,0 +1,104 @@
+body {
+    font-family: 'Open Sans', sans-serif
+}
+
+.spec {
+    padding-left: 20px;
+    font-weight: bold
+}
+
+.sidenav-trigger i {
+    color: #0c6286
+}
+
+.dropdown-content {
+    min-width: 300px
+}
+
+.brand-logo img {
+    width: 200px;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 4px
+}
+
+.footer__text {
+    font-weight: bold
+}
+
+footer ul > li {
+    font-weight: bold
+}
+
+.finde__title {
+    -webkit-text-stroke: 1px black;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+iframe {
+    padding-top: 40px
+}
+
+.card {
+    z-index: 999;
+    margin-top: 17%
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 4
+}
+
+.overlay h5 {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    margin-top: 17%
+}
+
+.video-container {
+    position: relative
+}
+
+video {
+    height: auto;
+    vertical-align: middle;
+    width: 100%
+}
+
+.overlay-desc {
+    background: rgba(128, 128, 128, 0.54);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.maine__title {
+    color: white;
+    font-family: 'Nobile', sans-serif;
+    font-size: 60px;
+    text-align: center
+}
+
+.parallax_title {
+    -webkit-text-stroke: 1px black;
+    font-weight: bold;
+    padding-bottom: 40px
+}
+
+.for__image img {
+    padding-right: 20px;
+    padding-bottom: 20px
+}
